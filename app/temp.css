@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&family=Luckiest+Guy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+.display_text{
+  font-family: 'Space Mono', monospace;
+}
+.heading {
+  font-family: 'Cabin Sketch', cursive;
+}
